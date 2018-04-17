@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QtProj">
+        <file>Resources/lock-S.png</file>
+        <file>Resources/trigger-S.png</file>
+        <file>Resources/lock-S-unlock.png</file>
+    </qresource>
+</RCC>
